@@ -2,7 +2,7 @@
 
 Location picker using the official [google_maps_flutter](https://pub.dev/packages/google_maps_flutter).
 
-I made This plugin because google deprecated [Place Picker](https://developers.google.com/places/android-sdk/placepicker).
+I made This plugin because google deprecated [Place Picker](https://developers.google.com/places/android-sdk/placepicker).sdfsfs
 
 <p>
   <img src="https://raw.githubusercontent.com/humazed/google_map_location_picker/master/art/location_picker.gif" width=265/>
